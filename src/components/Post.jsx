@@ -33,7 +33,7 @@ const Post = () => {
             <MoreVert />
           </IconButton>
         }
-        title="Joe Huberman "
+        title="Patrick Miller "
         subheader="September 14, 2022"
       />
       <CardMedia
